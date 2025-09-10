@@ -48,7 +48,7 @@ Durante esta sprint, foi realizado o **teste completo da funcionalidade de compa
 
 ## Estrutura do Repositório
 
-/
+```/
 ├── 01 - Checklist do layout/
 │   └── Checklist_e_testes_layout.xlsx ← Casos de teste e checklist aplicados ao layout
 │
@@ -68,6 +68,7 @@ Durante esta sprint, foi realizado o **teste completo da funcionalidade de compa
 ├── Tabela_de_decisao_carsharing.xlsx ← Tabelas de decisão aplicadas ao carsharing
 │
 └── README.md ← Documentação atual
+```
 
 ## Como usar
 
