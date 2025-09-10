@@ -1,0 +1,1 @@
+# TripleTen_Analyst_QA_Sprint_03_Teste_de_aplicativos_Web
