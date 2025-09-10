@@ -1,0 +1,3 @@
+Click no link para acessar os requistos da funcionalidade "carsharing"
+
+https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-3/PTBR/v6/Requisitos_da_funcionalidade_Carsharing.pdf
